@@ -1,4 +1,4 @@
-FROM arm64v8/ubuntu:23.04
+FROM arm64v8/ubuntu:23.10
 
 ARG RUNNER_VERSION="2.313.0"
 
